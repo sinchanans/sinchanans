@@ -24,8 +24,7 @@
 🔹 **Retail Data Warehouse using BigQuery**  
 Designed fact tables, aggregated monthly sales tables, and partitioned tables for optimized analytical querying.
 
-👉 Repository:  
-https://github.com/sinchanans/retail-bigquery-data-warehouse
+
 
 ---
 
