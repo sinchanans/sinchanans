@@ -4,10 +4,10 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 MCA Graduate passionate about Software Testing & Quality Assurance
-- 🧪 Strong foundation in Manual Testing, API Testing, SQL & Defect Tracking
-- 🚀 Preparing for QA Engineer / Automation Testing roles
-- ☁️ Familiar with Selenium, Postman, REST APIs & Agile Methodologies
+- MCA Graduate passionate about Software Testing & Quality Assurance
+- Strong foundation in Manual Testing, API Testing, SQL & Defect Tracking
+- Preparing for QA Engineer / Automation Testing roles
+- Familiar with Selenium, Postman, REST APIs & Agile Methodologies
 
 ---
 
