@@ -13,7 +13,7 @@
 
 ### 🛠️ Technical Skills
 - **Testing:** Manual Testing, Functional Testing, Regression Testing, API Testing
-- **Automation:** Selenium (Basics), Postman
+- **Automation:** Selenium , Postman
 - **Languages:** SQL, Python, JavaScript (Basics)
 - **Tools:** JIRA (Basics), Git, Power BI
 - **Database:** MySQL
